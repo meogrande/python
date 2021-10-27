@@ -5,7 +5,7 @@ print ("ciao mondo")
 # coding: utf8
 print(u"òàè+一二三四五".encode('utf-8'))
 print (u'哈哈'.encode('utf-8'))
-print (u'哈哈')
+print (u'哇哈')
 # ' vs ""
 print ("ciao", 'ciao', " l'\"ha ", 'h"h')
 # operazioni
