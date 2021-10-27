@@ -53,6 +53,7 @@ def isfloat(value):
   except ValueError:
     return False
 
+
 # Controllo di tipo
 x = input("Inserisci qualcosa e ti dico il tipo: ")
 
