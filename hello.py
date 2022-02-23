@@ -1,4 +1,5 @@
 print("ciao mondo")
+
 x = 9
 print(x // 2) # Divisione intera
 print("hai", x, "anni\n")
